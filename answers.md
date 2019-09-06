@@ -82,3 +82,8 @@ The changes do not update
 #Answer 11
 The changes get rejected
 
+#Answer 12
+The changes were saved
+
+#Answer 13
+.  ..  .git  .gitignore  README.md
